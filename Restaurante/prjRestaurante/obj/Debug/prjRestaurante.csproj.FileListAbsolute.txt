@@ -1,0 +1,12 @@
+D:\prjRestaurante\Restaurante\prjRestaurante\bin\Debug\prjRestaurante.exe.config
+D:\prjRestaurante\Restaurante\prjRestaurante\bin\Debug\prjRestaurante.exe
+D:\prjRestaurante\Restaurante\prjRestaurante\bin\Debug\prjRestaurante.pdb
+D:\prjRestaurante\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.csprojResolveAssemblyReference.cache
+D:\prjRestaurante\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.Properties.Resources.resources
+D:\prjRestaurante\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.visao.FormularioPrincipal.resources
+D:\prjRestaurante\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.csproj.GenerateResource.Cache
+D:\prjRestaurante\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.exe
+D:\prjRestaurante\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.pdb
+D:\prjRestaurante\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.visao.FormProduto.resources
+D:\prjRestaurante\Restaurante\prjRestaurante\bin\Debug\EntityFramework.dll
+D:\prjRestaurante\Restaurante\prjRestaurante\bin\Debug\EntityFramework.xml
